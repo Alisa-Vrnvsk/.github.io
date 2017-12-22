@@ -1,0 +1,29 @@
+p{
+margin-bottom: 12px;
+}
+
+h1{
+font-weight: 400;
+font-size: 36px;
+}
+
+h2{
+font-size: 32px;
+margin-bottom: 8px;
+border-bottom: 1px;
+border-bottom-color: gray;
+}
+
+h3{
+font-size: 20px;
+}
+
+#header{
+margin-bottom: 32px;
+text-align: center;
+}
+
+#footer{
+    margin-top: 64px;
+    text-align: center;
+}
